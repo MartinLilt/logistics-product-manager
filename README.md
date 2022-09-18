@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The case on Upwork: https://www.upwork.com/freelancers/~013353693d309695d7?s=1270387427651076096&p=1569768024220110848
 
-## Getting Started
+Ordered service:
+- Development of a UI interface for managing the firm's logistics.
+- Frontend interface development using Next.js (PWA) + Bootstrap framework.
 
-First, run the development server:
+Requirements:
+1) Excellent proficiency in JavaScript ES6 and TypeScript programming languages.
+2) Experience with the Next.js framework and the ability to convert an application to a hybrid PWA type.
+3) Good understanding of react-DOM rendering and react-state/redux-state.
+4) Good experience using and being fluent in Bootstrap 5.
+5) Quality code writing. The code is not repetitive and is logically clear.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Description:
+- In this example, the customer set the task: Develop a UI interface for a PWA-type web application using react-DOM rendering and Redux state management in a stack with Next.js + TypeScript + Bootstrap Framework technologies. Workflow: Converting the interface from PSD format to Bootstrap components. Then converting plain HTML to TSX (a TSX file is a TypeScript (.TS) file written using JSX syntax.) components react-DOM (total time of work is 84 hours - the first phase). Second phase: writing Rest API logic + REST CURD logic for MongoDB database (total time: 23 hours - second phase + Postman/MongoDB Compass testing).
+Third phase - an adaptation of Next.js application into a hybrid PWA application + work with the manifest (total time spent on the work: 34 hours - third phase + fixing typing bugs for the TypeScript environment).
+The work included 9 free edits for the visual interface and 17 paid edits for UI and REST API logic.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Total time spent on the project: 141 hours.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Tasks:
+- First phase of work:
+1) Convert UI from PSD to Bootstrap components.
+2) Adapt stylized components to TSX ecosystem Next.js format.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- Second phase of work:
+1) Develop Front-end logic for REST CURD queries to work with the database (MongoDB).
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Third phase of work:
+1) Adapt the Next.js application into a hybrid PWA application.
+2) Fixing typing errors in the TypeScript environment.
+3) Optimizing and cleaning up code to improve product performance and better perception of the written logic.
 
-## Learn More
+What skills did I need to do the job?
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+javascript, typescript, rest api, html5, css3, bootstrap, jsx, tsx, next.js, react.js, react dom, redux, node.js, postman, database, mongodb, pwa, app, web application, web development, frontend, front-end, hybrid application.
